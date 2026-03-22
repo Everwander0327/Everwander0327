@@ -1,6 +1,6 @@
 # Hi there, I'm Neko! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Aspiring+Web+Developer;Learning+The+Odin+Project;Python+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Aspiring+Web+Developer;Learning+Through+The+Odin+Project;Python+Dev;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 ---
 
