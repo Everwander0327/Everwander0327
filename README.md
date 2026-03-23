@@ -34,6 +34,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Everwander0327&theme=tokyonight&hide_border=true)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Everwander0327/Everwander0327/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Everwander0327/Everwander0327/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Everwander0327/Everwander0327/output/github-snake.svg" />
+</picture>
+
 ---
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Everwander0327.Everwander0327)
