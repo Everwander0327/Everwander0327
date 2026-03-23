@@ -79,11 +79,14 @@ os: Linux (Ubuntu) 🐧
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Everwander0327&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Everwander0327&theme=tokyonight" alt="Profile Details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Everwander0327&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Everwander0327&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 
 </div>
 
