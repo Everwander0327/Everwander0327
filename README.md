@@ -83,7 +83,7 @@ os: Linux (Ubuntu) 🐧
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Everwander0327&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Everwander0327&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
