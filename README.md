@@ -12,7 +12,7 @@
 
 ```yaml
 name: Neko
-location: 🌏
+location: Philippines
 current_focus: Web Development
 learning_path: The Odin Project
 goal: Full Stack Developer
